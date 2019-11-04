@@ -1,13 +1,13 @@
 {
-  "application.css": "/packs/css/application-c25eccda.css",
-  "application.js": "/packs/js/application-2ddb62313b49bb9012bf.js",
+  "application.css": "/packs/css/application-cad27dfd.css",
+  "application.js": "/packs/js/application-40bb721eaf0a6eecdd8f.js",
   "entrypoints": {
     "application": {
       "css": [
-        "/packs/css/application-c25eccda.css"
+        "/packs/css/application-cad27dfd.css"
       ],
       "js": [
-        "/packs/js/application-2ddb62313b49bb9012bf.js"
+        "/packs/js/application-40bb721eaf0a6eecdd8f.js"
       ]
     }
   },
