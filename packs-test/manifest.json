@@ -1,0 +1,20 @@
+{
+  "application.js": "/packs-test/js/application-5de95a422b76b4e3829d.js",
+  "application.js.map": "/packs-test/js/application-5de95a422b76b4e3829d.js.map",
+  "entrypoints": {
+    "application": {
+      "js": [
+        "/packs-test/js/application-5de95a422b76b4e3829d.js"
+      ],
+      "js.map": [
+        "/packs-test/js/application-5de95a422b76b4e3829d.js.map"
+      ]
+    }
+  },
+  "logo_teachertool_v2_square.webp": "/packs-test/ce5c7a98a2094dd2c12562c9455b74bb.webp",
+  "media/iconfont/MaterialIcons-Regular.eot": "/packs-test/media/iconfont/MaterialIcons-Regular-e79bfd88.eot",
+  "media/iconfont/MaterialIcons-Regular.ttf": "/packs-test/media/iconfont/MaterialIcons-Regular-a37b0c01.ttf",
+  "media/iconfont/MaterialIcons-Regular.woff": "/packs-test/media/iconfont/MaterialIcons-Regular-012cf6a1.woff",
+  "media/iconfont/MaterialIcons-Regular.woff2": "/packs-test/media/iconfont/MaterialIcons-Regular-570eb838.woff2",
+  "media/images/logo_teachertool_v2_square.png": "/packs-test/media/images/logo_teachertool_v2_square-14e5f2b6.png"
+}
