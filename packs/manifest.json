@@ -1,13 +1,13 @@
 {
-  "application.css": "/packs/css/application-cad27dfd.css",
-  "application.js": "/packs/js/application-40bb721eaf0a6eecdd8f.js",
+  "application.css": "/packs/css/application-e3f6cc2d.css",
+  "application.js": "/packs/js/application-9147986a083b05c8d26b.js",
   "entrypoints": {
     "application": {
       "css": [
-        "/packs/css/application-cad27dfd.css"
+        "/packs/css/application-e3f6cc2d.css"
       ],
       "js": [
-        "/packs/js/application-40bb721eaf0a6eecdd8f.js"
+        "/packs/js/application-9147986a083b05c8d26b.js"
       ]
     }
   },
@@ -44,7 +44,7 @@
   "media/front/info_2.png": "/packs/media/front/info_2-cef29db5.png",
   "media/front/info_3.png": "/packs/media/front/info_3-c33a070e.png",
   "media/front/linkedin.svg": "/packs/media/front/linkedin-13b3b0c6.svg",
-  "media/front/phone.png": "/packs/media/front/phone-2dbe7bf0.png",
+  "media/front/mobile-app-preview.jpg": "/packs/media/front/mobile-app-preview-e29df21a.jpg",
   "media/front/step01.png": "/packs/media/front/step01-a4ee08e1.png",
   "media/front/step02.png": "/packs/media/front/step02-e6e813a8.png",
   "media/front/step03.png": "/packs/media/front/step03-77d2b345.png",
@@ -67,6 +67,7 @@
   "media/photos/service-homework.jpg": "/packs/media/photos/service-homework-4c2f8c6a.jpg",
   "media/photos/team-guillaume.jpg": "/packs/media/photos/team-guillaume-c042e217.jpg",
   "media/photos/team-viktoria.jpg": "/packs/media/photos/team-viktoria-1e407c57.jpg",
+  "mobile-app-preview.webp": "/packs/25c472e3811de6acf3de7613aefa5930.webp",
   "nine-nanny-presentation.webp": "/packs/72d391f5a7fa20497374fcc84d446e48.webp",
   "nine-nanny-super-nanny.webp": "/packs/34092a3be9a6f073472267ff603276ad.webp",
   "service-aupair.webp": "/packs/545b4e9219ef26e9c16e74401ef02f01.webp",
